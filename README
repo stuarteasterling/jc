@@ -1,0 +1,6 @@
+build.sh:
+Requires that `javac` be in your PATH
+Compiled class files are already in the ./bin directory for convenience
+
+run.sh:
+Requires that `java` be in your PATH and that compiled class files are in ./bin
